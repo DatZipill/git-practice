@@ -1,2 +1,3 @@
 "Hello Git"
 "hello lan 2" 
+"This is feature 1" 
